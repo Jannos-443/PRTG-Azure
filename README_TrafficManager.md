@@ -31,7 +31,7 @@ or follow this Guide: [Paessler Azure Custom Role](https://kb.paessler.com/en/to
 
 3. Create new Sensor
    - EXE/Script Advanced = `PRTG-Azure-TrafficManager.ps1`
-   - Parameter = `-ApplicationID 'Test-APPID' -TenatId 'Test-TenantID' -AccessSecret 'Test-AppSecret'`
+   - Parameter = `-ApplicationID 'Test-APPID' -TenatId 'Test-TenantID' -AccessSecret 'Test-AppSecret' -SubscriptionId 'xxx...xxx'`
 
 4. Set your own Channel limits if needed
 

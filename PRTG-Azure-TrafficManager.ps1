@@ -42,7 +42,7 @@
     .EXAMPLE
     Sample call from PRTG EXE/Script Advanced
 
-    "PRTG-Azure-TrafficManager.ps1" -ApplicationID 'Test-APPID' -TenantId 'Test-TenantId' -AccessSecret 'Test-AppSecret'
+    "PRTG-Azure-TrafficManager.ps1" -ApplicationID 'Test-APPID' -TenantId 'Test-TenantId' -AccessSecret 'Test-AppSecret' -SubscriptionId 'xxx...xxx'
 
     Author:  Jannos-443
     https://github.com/Jannos-443/PRTG-Azure
