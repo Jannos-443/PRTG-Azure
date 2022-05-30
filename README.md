@@ -11,7 +11,7 @@ PRTG Powershell Scripts to monitor Microsoft Azure
 
 ### **Features**
 
-[PRTG-M365-Licences](https://github.com/Jannos-443/PRTG-Azure/blob/main/README_TrafficManager.md)
+[PRTG-Azure-TrafficManager](https://github.com/Jannos-443/PRTG-Azure/blob/main/README_TrafficManager.md)
 * Monitor TrafficManager Profiles
 <br>
 
